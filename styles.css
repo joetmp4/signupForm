@@ -15,4 +15,10 @@ body {
 
 img {
     max-height: 100vh;
+    width: auto;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
 }
